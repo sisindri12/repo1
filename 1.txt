@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 changes3
+======
+>>>>>>> bugfix
